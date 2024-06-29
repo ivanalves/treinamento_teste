@@ -1,0 +1,74 @@
+
+body {
+    
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #34185c;
+  color: aliceblue;
+}
+
+.titulo{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ display: flex;
+ margin-left: 20px;
+ font-size: 12px;
+ left: 15%;
+ 
+}
+
+.busca{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  color: deeppink;
+  margin-left: 20px;
+  margin-top: 7px;
+
+}
+
+.nome{
+   
+display: flex;
+  margin-left: 5px;
+ margin-top: 20px;
+ font-size:larger;
+
+}
+
+.codigomot{
+   
+    display: flex;
+      margin-left: 281px;
+      margin-top: -20px;
+      font-size:larger;
+    }
+
+    .ano{
+   
+        display: flex;
+          margin-left: 580px;
+          margin-top: -20px;
+          font-size: larger;
+        
+        }
+
+        .btn {
+          display: flex;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          color: fuchsia;
+          margin-left: 720px;
+          margin-top: -22px;
+          font-size: 16px;
+        
+
+        }
+
+.formulario {
+    display: flex;
+    background-color: aliceblue;
+    height: 515px;
+    width: auto;
+}
+
+
+
